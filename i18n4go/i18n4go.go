@@ -9,8 +9,8 @@ import (
 
 	"runtime/debug"
 
-	"github.com/maximilien/i18n4go/cmds"
-	"github.com/maximilien/i18n4go/common"
+	"github.com/krishicks/i18n4go/cmds"
+	"github.com/krishicks/i18n4go/common"
 )
 
 const VERSION = "v0.2.4"

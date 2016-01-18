@@ -17,7 +17,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	"github.com/maximilien/i18n4go/common"
+	"github.com/krishicks/i18n4go/common"
 )
 
 type extractStrings struct {

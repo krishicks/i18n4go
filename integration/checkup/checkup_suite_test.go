@@ -1,7 +1,7 @@
 package checkup_test
 
 import (
-	"github.com/maximilien/i18n4go/integration/test_helpers"
+	"github.com/krishicks/i18n4go/integration/test_helpers"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 

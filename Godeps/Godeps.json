@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/maximilien/i18n4go",
+	"ImportPath": "github.com/krishicks/i18n4go",
 	"GoVersion": "go1.5.2",
 	"Packages": [
 		"./..."
